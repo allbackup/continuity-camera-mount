@@ -12,7 +12,7 @@ Printable Link: https://www.printables.com/model/231544-imac-pro-continuity-came
 
 Important: This is designed to be used with an Apple Magsafe charger (https://www.apple.com/shop/product/MHXH3AM/A/magsafe-charger) to keep your phone mounted securely.
 
-Alternative you could try a solution like this - https://amzn.to/3AbECjU
+Alternative you could try a solution like this - https://amzn.to/3IuieER
 
 ### Render of mount on an iMac Pro
 
